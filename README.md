@@ -12,7 +12,7 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 ### Strategic Focus
 * Developing scalable, production-grade data warehouse frameworks.
 * Optimizing analytical schemas to maximize query performance and enforce strict data integrity.
-* Implementation of methematical concepts to data frames
+* Implementation of mathematical concepts to data frames
   
 
 <!--
