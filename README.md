@@ -5,9 +5,9 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 ---
 
 ###  Core Technical Competencies
-* *Data Engineering & Architecture:* Relational Database Design, Schema Normalization (1NF, 2NF, 3NF), Fact & Dimension Modeling, Star Schemas, ETL Pipeline 
-* *Languages & Querying:* SQL (PostgreSQL), Python, CSS, R programming
-* *Tools & Infrastructure:* Docker, VS, Git & Version Control, RStudio
+* **Data Engineering & Architecture:** Relational Database Design, Schema Normalization (1NF, 2NF, 3NF), Fact & Dimension Modeling, Star Schemas, ETL Pipeline 
+* **Languages & Querying:** SQL (PostgreSQL), Python, CSS, R programming
+* **Tools & Infrastructure:** Docker, VS, Git & Version Control, RStudio
 
 ### Strategic Focus
 * Developing scalable, production-grade data warehouse frameworks.
