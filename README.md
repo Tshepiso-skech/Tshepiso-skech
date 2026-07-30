@@ -13,8 +13,8 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 * Developing scalable, production-grade data warehouse frameworks.
 * Optimizing analytical schemas to maximize query performance and enforce strict data integrity.
 * Implementation of mathematical concepts to data frames
-  
 
+  ## Researcb
 <!--
 **Tshepiso-skech/Tshepiso-skech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
