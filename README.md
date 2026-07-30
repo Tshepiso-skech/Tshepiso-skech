@@ -13,6 +13,7 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 * Developing scalable, production-grade data warehouse frameworks.
 * Optimizing analytical schemas to maximize query performance and enforce strict data integrity.
 * Implementation of mathematical concepts to data frames
+* Statistical Research and Implementation
 
 ## Research Library
 A comprehensive archive of theorical research and practical industry applicatons designed to guide fellow researchers and practitioners in modern analytical fields
