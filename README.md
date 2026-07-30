@@ -14,7 +14,8 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 * Optimizing analytical schemas to maximize query performance and enforce strict data integrity.
 * Implementation of mathematical concepts to data frames
 
-## Research
+## Research Library
+A comprehensive archive of theorical research and practical industry applicatons designed to guide fellow researchers and practitioners in modern analytical fields
 <!--
 **Tshepiso-skech/Tshepiso-skech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
