@@ -19,5 +19,5 @@ Professional focused on the intersection of Mathematics, Data Engineering, and A
 A comprehensive archive of theorical research and practical industry applicatons designed to guide fellow researchers and practitioners in modern analytical fields
 ### Publication 001: Normality Evaluation Framework
 - **Status:** In Development
-- **Version:** v0.5.0
-- Last Updated: 30 July 2026
+- **Version:** v2.0.0
+- Last Updated: 06 August 2026
